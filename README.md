@@ -25,3 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Note
+
+I attempted to combine the output of two seperate tutorials I found while researching the project. I was able to get the front end up. I was able to get the node server running and was able to connect to a mongoDB database, but I never actually got anything working together in any significant way.
